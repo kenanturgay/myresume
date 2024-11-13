@@ -37,8 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="33" alt="npm logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="33" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" height="33" alt="graphql logo"  />
+  
   
  
  
